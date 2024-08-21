@@ -52,6 +52,18 @@
 ###
 
 <div align="center">
+
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaishnaviiKumari&theme=radical)
+   
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VaishnaviiKumari&theme=moonlight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaishnaviiKumari&theme=moonlight)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=VaishnaviiKumari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=aakashhkumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
