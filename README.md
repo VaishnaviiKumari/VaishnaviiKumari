@@ -48,6 +48,9 @@
   
   <img alt="React.js" src="https://camo.githubusercontent.com/3467eb8e0dc6bdaa8fa6e979185d371ab39c105ec7bd6a01048806b74378d24c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
 
+<img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
+  
+
 <img alt="NPM" src="https://camo.githubusercontent.com/fdac4b9b2e97f18dd9979d39e6db16e17e0956737ff0878ce16b153449e09bb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d627269676874677265656e3f636f6c6f723d444332433334267374796c653d666f722d7468652d6261646765266c6f676f3d4e504d266c6f676f436f6c6f723d7768697465266c6f676f57696474683d3230" data-canonical-src="https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&amp;style=for-the-badge&amp;logo=NPM&amp;logoColor=white&amp;logoWidth=20" style="max-width: 100%;">
 
   <img alt="GitHub" src="https://camo.githubusercontent.com/7b229d9daea9fdb601c19303f0943d7ebe307c66d9f27e525c73ad330e0dcebf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
