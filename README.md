@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm  Vaishnavi Kumari from  Patna, Bihar.<br><br>- 👀 I’m interested in Web Development<br>- 🔭 I’m studying in VIT Bhopal University. <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I would like to sketch</p>
+<p align="left">👋 Hi, I'm  Vaishnavi Kumari from  Patna, Bihar.<br><br>- 👀 I’m interested in Web Development <br>- 👀 I’m a Full Stack Developer.<br>- 🔭 I’m studying in VIT Bhopal University. <br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I would like to sketch</p>
 
 ###
 
