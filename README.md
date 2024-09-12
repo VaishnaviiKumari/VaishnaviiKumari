@@ -66,6 +66,8 @@
   <img alt="Vercel" src="https://camo.githubusercontent.com/bd437f93df58db5a5e8e8790572201121f525d051d2db58318ba0b91ef573384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" style="max-width: 100%;">
 
   <img alt="mongodb" src="https://camo.githubusercontent.com/cc9d8d3c8e4bd54d0ab741984d5f24b01be6a536b408e0c81f4de99eb0aa6611/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
+
+  <img alt="Postman" src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
   
 </div>
 
