@@ -64,7 +64,8 @@
   <img alt="Git" src="https://camo.githubusercontent.com/ce71f61cdc97769047112d3512c4f2ee27eb8d23b6869aa20d433ad3dac60f05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/git%20-%23F7DF1E.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
 
   <img alt="Vercel" src="https://camo.githubusercontent.com/bd437f93df58db5a5e8e8790572201121f525d051d2db58318ba0b91ef573384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" style="max-width: 100%;">
-  
+
+  <img alt="mongodb" src="https://camo.githubusercontent.com/cc9d8d3c8e4bd54d0ab741984d5f24b01be6a536b408e0c81f4de99eb0aa6611/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
   
 </div>
 
