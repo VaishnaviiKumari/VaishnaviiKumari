@@ -42,6 +42,8 @@
   
   <img alt="CSS3" src="https://camo.githubusercontent.com/71f2f7b000f777ae7561aef343df0f72dd821e49f80e1366ef9e59ed266f01f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
 
+  <img alt="GitHubPages" src="https://camo.githubusercontent.com/394d48e0a5beee0e3104eb04c8b8e6923567be3ba104754c8c141c6dee91c75e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
+
   <img alt="Bootsrap" src="https://camo.githubusercontent.com/4520a7028dfc78ec3ba2e270799b3727038981fe3e0a9bf7d701b1ad70bceef7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
 
 
@@ -72,8 +74,6 @@
   <img alt="mongodb" src="https://camo.githubusercontent.com/cc9d8d3c8e4bd54d0ab741984d5f24b01be6a536b408e0c81f4de99eb0aa6611/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;">
 
   <img alt="Postman" src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
-
-  <img alt="GitHubPages" src="https://camo.githubusercontent.com/394d48e0a5beee0e3104eb04c8b8e6923567be3ba104754c8c141c6dee91c75e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
 
   <img alt="NodeJs" src="https://camo.githubusercontent.com/8477a50d7210f0f3bf15fbe5b44809296b75f2101a2927818599d72c8ea72cef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
 
