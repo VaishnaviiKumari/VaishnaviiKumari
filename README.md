@@ -43,7 +43,11 @@
   <img alt="CSS3" src="https://camo.githubusercontent.com/71f2f7b000f777ae7561aef343df0f72dd821e49f80e1366ef9e59ed266f01f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
 
   <img alt="Bootsrap" src="https://camo.githubusercontent.com/4520a7028dfc78ec3ba2e270799b3727038981fe3e0a9bf7d701b1ad70bceef7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
-  
+
+
+   <img alt="TAILWINDCSS" src="https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
+
+   
   <img alt="JavaScript" src="https://camo.githubusercontent.com/ec874bfcf61558b1c237dcc4b10f481b4424a269e35eaf75d862751a98e3370c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
   
   <img alt="React.js" src="https://camo.githubusercontent.com/3467eb8e0dc6bdaa8fa6e979185d371ab39c105ec7bd6a01048806b74378d24c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
@@ -84,7 +88,7 @@
 
 
 <div align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=aakashhkumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+ <img src="https://streak-stats.demolab.com?user=aakashhkumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
 </div>
 
 ###
